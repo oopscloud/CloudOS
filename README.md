@@ -8,4 +8,4 @@ Prohibition of commercial use
 
 Screenshot
 
-https://github.com/oopscloud/CloudOS/blob/master/QQ%E6%88%AA%E5%9B%BE20190526155156.png
+![Screenshot](https://github.com/oopscloud/CloudOS/blob/master/QQ%E6%88%AA%E5%9B%BE20190526155156.png)
